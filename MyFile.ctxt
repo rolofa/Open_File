@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyFile()
+comment1.params=namaFile\ isiFile
+comment1.target=void\ tulisFile(java.lang.String,\ java.lang.String)
+comment2.params=namaFile
+comment2.target=java.lang.String\ bacaFile(java.lang.String)
+numComments=3

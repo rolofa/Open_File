@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileReader()
+comment0.text=\r\n\ constructor\ for\ object\ of\ class\ FileReader\r\n
+comment1.params=namaFile
+comment1.target=java.lang.String\ bacaFile(java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
